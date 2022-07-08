@@ -331,6 +331,28 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
+          "id": "/2022/07/07/intro-to-fruits",
+          "metadata": {
+            "permalink": "/blog/2022/07/07/intro-to-fruits",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-07-07-intro-to-fruits.mdx",
+            "source": "@site/blog/2022-07-07-intro-to-fruits.mdx",
+            "title": "intro-to-fruits",
+            "description": "---",
+            "date": "2022-07-07T00:00:00.000Z",
+            "formattedDate": "July 7, 2022",
+            "tags": [],
+            "readingTime": 0.34,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {},
+            "nextItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            }
+          },
+          "content": "---\n slug: intro-to-payments\n title: Introduction to payments\n authors: [name]\n tags: [announcement, api]\n ---\n\n\n # Getting started with building a blog post\n\nimport Tabs from '@theme/Tabs';\nimport TabItem from '@theme/TabItem';\n\nimport Highlight from '@site/src/components/Highlight';\n\n<Highlight color=\"#25c2a0\">Docusaurus green</Highlight>\n\n\n<Tabs>\n  <TabItem value=\"apple\" label=\"Apple\" default>\n    They're really tasty 🍎\n  </TabItem>\n  <TabItem value=\"orange\" label=\"Orange\">\n    They're alright on the right day 🍊\n  </TabItem>\n  <TabItem value=\"banana\" label=\"Banana\">\n    Heck yah I love em 🍌\n  </TabItem>\n</Tabs>"
+        },
+        {
           "id": "welcome",
           "metadata": {
             "permalink": "/blog/welcome",
@@ -384,6 +406,10 @@
                 "hello",
                 "docusaurus"
               ]
+            },
+            "prevItem": {
+              "title": "intro-to-fruits",
+              "permalink": "/blog/2022/07/07/intro-to-fruits"
             },
             "nextItem": {
               "title": "MDX Blog Post",
@@ -548,6 +574,7 @@
       "blogListPaginated": [
         {
           "items": [
+            "/2022/07/07/intro-to-fruits",
             "welcome",
             "mdx-blog-post",
             "long-blog-post",
@@ -558,7 +585,7 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 4,
+            "totalCount": 5,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           }

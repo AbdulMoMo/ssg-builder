@@ -1,0 +1,18 @@
+{
+  "permalink": "/blog/2022/07/07/intro-to-payments",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-07-07-intro-to-payments.md",
+  "source": "@site/blog/2022-07-07-intro-to-payments.md",
+  "title": "intro-to-payments",
+  "description": "---",
+  "date": "2022-07-07T00:00:00.000Z",
+  "formattedDate": "July 7, 2022",
+  "tags": [],
+  "readingTime": 0.305,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {},
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}

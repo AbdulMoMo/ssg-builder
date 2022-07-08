@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "intro-to-fruits",
+      "permalink": "/blog/2022/07/07/intro-to-fruits"
+    },
+    {
       "title": "Welcome",
       "permalink": "/blog/welcome"
     },

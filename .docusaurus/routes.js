@@ -39,7 +39,12 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '865'),
+    component: ComponentCreator('/blog', '469'),
+    exact: true
+  },
+  {
+    path: '/blog/2022/07/07/intro-to-fruits',
+    component: ComponentCreator('/blog/2022/07/07/intro-to-fruits', '867'),
     exact: true
   },
   {

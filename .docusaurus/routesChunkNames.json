@@ -42,13 +42,16 @@
       "plugin": "plugin---docusaurus-debug-896-948"
     }
   },
-  "/blog-865": {
+  "/blog-469": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blogb-16-751"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-3-a-7-18f"
+      },
       {
         "content": "content---blog-766-e3c"
       },
@@ -63,6 +66,14 @@
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/2022/07/07/intro-to-fruits-867": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogb-16-751"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2022-07-07-intro-to-fruits-78-c-bbd"
   },
   "/blog/archive-5ab": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
